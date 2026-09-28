@@ -25,7 +25,7 @@
 
 ---
 
-## 🔒 Telegram Fork (DigGram) · Private Development
+## 🔒 Telegram Fork (chatGram) · Private Development
 
 Альтернативная серверная и клиентская архитектура, использующая мощный и безопасный движок **TDLib** (Telegram Database Library). Любой желающий сможет форкнуть проект и поднять суверенную сеть мессенджера на своей инфраструктуре.
 
